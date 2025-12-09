@@ -2,11 +2,11 @@
 
 Signature a data token by client key, for work with Markirovka API requests by phpcades
 
-Sep 1 Setup phpcades extension for PHP
+### Sep 1 Setup phpcades extension for PHP
 
 https://docs.cryptopro.ru/cades/phpcades/phpcades-install
 
-Step 2 Install keys on Ubuntu VPS
+### Step 2 Install keys on Ubuntu VPS
 
 Check php user on the server
 
